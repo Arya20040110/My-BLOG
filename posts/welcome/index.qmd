@@ -1,0 +1,12 @@
+---
+title: "beginning here..."
+author: "me"
+date: "2024-08-03"
+categories: [news]
+---
+
+my actions are my message.Lets sit together for next minutes in science.
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
