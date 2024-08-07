@@ -3,7 +3,7 @@ title: "Quarto: The Future of Dynamic Data Reporting and Interactive Documentati
 author: "me"
 date: "2024-08-03"
 categories: [new learning]
-image: "thumbnail.jpg"
+image: "download.jfif"
 ---
 
 Quarto is an innovative, open-source publishing system that’s changing how data scientists and researchers create documents, reports, and presentations. Evolving from R Markdown, Quarto supports multiple programming languages—including R, Python, and Julia—allowing for seamless integration of code and results within a single document. Its versatility is a major asset for projects involving various languages, simplifying the process of combining different types of content into one cohesive output. With its range of customizable formats, including HTML, PDF, and interactive presentations, Quarto ensures that your findings are presented in a polished and professional manner.
